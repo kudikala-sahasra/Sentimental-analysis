@@ -50,7 +50,7 @@ To fine-tune a pre-trained BERT model for emotion classification on text data, a
 
 | Metric              | Value         |
 |---------------------|---------------|
-| 🏆 Weighted F1 Score | **0.87**      |
+| 🏆 Weighted F1 Score | **0.90**      |
 | 🎯 Overall Accuracy | **88.2%**     |
 | 💥 Loss (Val)       | **0.36**      |
 
